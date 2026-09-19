@@ -9,7 +9,7 @@ enum NotificationResponseAction: String, CaseIterable {
     case snooze15 = "Trio.snooze15"
     case snooze30 = "Trio.snooze30"
     case snooze1hr = "Trio.snooze1hr"
-    case snooze1hr = "Trio.snooze2hr"
+    case snooze2hr = "Trio.snooze2hr"
     case snooze3hr = "Trio.snooze3hr"
     case snooze6hr = "Trio.snooze6hr"
 
